@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **My Protfolio**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m learning **JavaScript**
 
 - 📫 How to reach me **20programmer28@gmail.com**
 
