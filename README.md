@@ -97,6 +97,6 @@ I'm always happy to connect with fellow developers, exchange ideas, and collabor
 
 **Code. Learn. Build. Repeat.** ⚡
 
-<a href="https://github.com/ProGraMMer-Parth">Explore my repositories →</a>
+<a href="https://github.com/ProGraMMer-Parth?tab=repositories">Explore my repositories →</a>
 
 </div>
