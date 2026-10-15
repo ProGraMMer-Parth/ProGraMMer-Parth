@@ -78,8 +78,6 @@ Want a quick overview of my education, skills, projects, and experience?
 
 **[📄 View / Download My Resume](https://github.com/ProGraMMer-Parth/ProGraMMer-Parth/raw/refs/heads/main/Parth_Ranjan_Resume.pdf)**
 
-> Keep `README.md` and `Parth_Ranjan_Resume.pdf` in the root of this profile repository so the resume link works.
-
 ## 📊 GitHub snapshot
 
 <div align="center">
