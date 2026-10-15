@@ -1,26 +1,104 @@
 ![MasterHead](https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png)
-<h1 align="center">Radhe Radhe ✨, I'm Parth Ranjan</h1>
-<h3 align="center">Engineer Student | BTech CS | 1st Year Student | LNCTian</h3>
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=programmer-parth&label=Profile%20views&color=0e75b6&style=flat" alt="programmer-parth" /> </p>
+# Hey, I'm Parth Ranjan 👋
 
-<p align="left"> <a href="https://twitter.com/parthranjan_" target="blank"><img src="https://img.shields.io/twitter/follow/parthranjan_?logo=twitter&style=for-the-badge" alt="parthranjan_" /></a> </p>
+### `CSE Student` · `Developer in Progress` · `AI & Web Enthusiast`
 
-- 🔭 I’m currently working on **My Protfolio**
+Building useful things with code, curiosity, and a little creativity.
 
-- 🌱 I’m learning **JavaScript**
-
-- 📫 How to reach me **20programmer28@gmail.com**
-
-- ⚡ Fun fact **I am funny😊**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/parthranjan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="parthranjan_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/parth-ranjan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parth-ranjan" height="30" width="40" /></a>
-<a href="https://instagram.com/parth.012_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="parth.012_" height="30" width="40" /></a>
+<p>
+  <a href="https://github.com/ProGraMMer-Parth">
+    <img src="https://img.shields.io/badge/GitHub-ProGraMMer--Parth-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="mailto:parthranjan901@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Let's%20connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&height=3" width="100%" alt="divider"/>
+
+</div>
+
+## ✦ A little about me
+
+I'm a Computer Science & Engineering student at **Lakshmi Narain College of Technology & Science, Bhopal** (2024–2028). I enjoy turning ideas into practical projects, exploring AI-powered tools, and learning how software works from the inside out.
+
+- 🎓 **Currently learning:** DSA, OOP, databases, and modern web development
+- 💻 **Core language:** Java
+- 🧩 **Interested in:** Full-stack development, generative AI, and problem-solving
+- 🚀 **Building:** Projects that make everyday tasks simpler
+- 🤝 **Beyond code:** Content creation, event coordination, and team collaboration
+
+## 🛠️ My toolkit
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,ts,python,c,cpp,html,css,react,nextjs,mysql,git,github,vscode,figma,vercel&perline=8" alt="Technology icons"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Tools-Experimenting-6C63FF?style=flat-square" alt="AI tools"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-Learning-8A2BE2?style=flat-square" alt="Prompt engineering"/>
+  <img src="https://img.shields.io/badge/Google%20Stitch-UI%2FUX-4285F4?style=flat-square" alt="Google Stitch"/>
+</p>
+
+## 🚧 Projects & things I'm building
+
+### 📁 Quick Access
+A full-stack document and note management application designed to make files easier to upload, preview, annotate, organize, and share. Includes email OTP login and a whiteboard-style note editor.
+
+### 📢 CampusNotice AI
+A college notice platform concept focused on making official notices and campus updates easier for students and staff to access.
+
+### 💊 GenMed AI
+A healthcare project concept exploring generic medicine alternatives, price awareness, and nearby pharmacy discovery.
+
+> These projects reflect my learning and development journey. Check individual repositories for current implementation details.
+
+## 🏅 Learning & certifications
+
+- **Oracle Java Foundations: Training and Assessment** — Oracle
+- **Vibe Coding: AI-Assisted Application Development** — FutureSkills Prime (Gold, 100%)
+- **Prompt Engineering and ChatGPT** — FutureSkills Prime (Gold, 82%)
+- **AI & Data Analytics Virtual Internship** — Cisco Networking Academy (90 hours; 3 verified badges)
+- **Generative AI Virtual Internship** — SmartBridge (ongoing, as listed on my resume)
+
+## 🌱 Outside the editor
+
+I've contributed to college clubs and events through content leadership, visual content, presentations, and event operations. I also took part in BuildVerse Hackathon and have participated in Smart India Hackathon 2025 and InnovX.
+
+I believe progress comes from **consistent practice, curiosity, teamwork, and being willing to learn from mistakes.**
+
+## 📄 Resume
+
+Want a quick overview of my education, skills, projects, and experience?
+
+**[📥 View / Download My Resume](./Parth_Ranjan_Resume.pdf)**
+
+> Keep `README.md` and `Parth_Ranjan_Resume.pdf` in the root of this profile repository so the resume link works.
+
+## 📊 GitHub snapshot
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ProGraMMer-Parth&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProGraMMer-Parth&layout=compact&hide_border=true" alt="Top languages"/>
+
+<img src="https://streak-stats.demolab.com?user=ProGraMMer-Parth&hide_border=true" alt="GitHub streak"/>
+
+</div>
+
+## 🤝 Let's connect
+
+I'm always happy to connect with fellow developers, exchange ideas, and collaborate on meaningful projects.
+
+<div align="center">
+
+**Code. Learn. Build. Repeat.** ⚡
+
+<a href="https://github.com/ProGraMMer-Parth">Explore my repositories →</a>
+
+</div>
